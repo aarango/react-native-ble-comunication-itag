@@ -4,12 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  
-
   <h3 align="center">React Native BLE Itag</h3>
-
   <p align="center">
     Simple bluetooth read and write test
     <br />
